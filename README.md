@@ -1,6 +1,8 @@
+# To view this project, open the .ipynb file on this repository OR visit the link below to the HTML hosted on the ryerson site
+
 # SMS-Spam_Detection
 spam/ham detection using nltk and sklearn
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Building Classifier for SMS/Spam Detection using Natural Language Processing(nltk) and Machine Learning(sklearn) in python
 Jan 2020 – Feb 2020
 
